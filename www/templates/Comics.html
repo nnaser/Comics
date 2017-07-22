@@ -1,0 +1,32 @@
+<ion-view view-title="Lista de Comics" ng-controller="ComicsCtrl">
+  <ion-content>
+    <!--<ion-list>
+      <ion-item ng-repeat="comic in comics">
+          <a class="item item-thumbnail-left" href="#">
+      <img src="cover.jpg">
+      <h2>Pretty Hate Machine</h2>
+      <p>Nine Inch Nails</p>
+    </a>
+      <img ng-src="{{comic.images[0].path}}">
+      <h2>{{ comic.title}} • </h2>
+      <p>{{comic.description}} </p>
+      <button ion-button clear item-end (click)="itemTapped($event, item)">Más+</button>
+      </ion-item>
+    </ion-list>-->      
+
+        <input type="text" placeholder="Bucar por Título o Año" >
+         <button type="button" class="btn btn-sm btn-primary"><i class="fa fa-search"></i> Buscar</button> 
+          <div class="list" >
+
+        <a ng-repeat="comic in comics" 
+           href="#/app/comics/{{comic.id}}"
+           class="item item-thumbnail-left" ng-click="muestraDetalle">
+
+          <img ng-src="{{ comic.images[0].path }}">
+          <h2>{{ comic.title }}</h2>
+          <p><h4>{{ comic.description }}</h4></a></p>
+        </a>
+
+      </div>
+  </ion-content>
+</ion-view>

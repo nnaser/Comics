@@ -1,0 +1,2465 @@
+{
+    "offset": 0,
+    "limit": 20,
+    "total": 40028,
+    "count": 20,
+    "results": [
+      {
+        "id": 1158,
+        "digitalId": 0,
+        "title": "Ultimate X-Men Vol. 5: Ultimate War (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "The Ultimates vs. the Ultimate X-Men: the battle begins. When the X-Men do the worst thing they could to humanity, the government orders Captain America, Iron Man, Thor and the rest of the Ultimates to bring them down. A small but lethal army, the Ultimates were created to face these and other newly rising threats to mankind. But the X-Men's founder, Professor X, hasn't been training his students for nothing -- and the youngs mutants just might take out the Ultimates first.",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "0-7851-1129-8",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 112,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The Ultimates vs. the Ultimate X-Men: the battle begins. When the X-Men do the worst thing they could to humanity, the government orders Captain America, Iron Man, Thor and the rest of the Ultimates to bring them down. A small but lethal army, the Ultimates were created to face these and other newly rising threats to mankind. But the X-Men's founder, Professor X, hasn't been training his students for nothing -- and the youngs mutants just might take out the Ultimates first."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1158",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/1158/ultimate_x-men_vol_5_ultimate_war_trade_paperback?utm_campaign=apiRef&utm_source=0a7c05bb263718db049062aa23c81ffc"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/216",
+          "name": "Ultimate X-Men Vol. 5: Ultimate War (1999)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/18477",
+            "name": "Ultimate War (2003) #4"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/18476",
+            "name": "Ultimate War (2003) #3"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/18475",
+            "name": "Ultimate War (2003) #2"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/18474",
+            "name": "Ultimate War (2003) #1"
+          }
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2029-12-31T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "1961-01-01T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 9.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4bc6670c80007",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/20/4c364f86ee2e8",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4c364f7bb52aa",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/4c361fccc82b1",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/4c361fc40691a",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/4bc6670c80007",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 13,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/1158/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/232",
+              "name": "Chris Bachalo",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/759",
+              "name": "C. B. Cebulski",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1282",
+              "name": "Ralph Macchio",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4411",
+              "name": "Stephanie Moore",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4732",
+              "name": "Brian Smith",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6170",
+              "name": "Olivier Coipel",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/312",
+              "name": "Mike Deodato",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Chris Eliopoulos",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/181",
+              "name": "Geoff Johns",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/52",
+              "name": "Bruce Jones",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/88",
+              "name": "Mark Millar",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/479",
+              "name": "Paul Mounts",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/427",
+              "name": "Tim Townsend",
+              "role": "inker"
+            }
+          ],
+          "returned": 13
+        },
+        "characters": {
+          "available": 17,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/1158/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010908",
+              "name": "Beast (Ultimate)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010911",
+              "name": "Black Widow (Ultimate)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010913",
+              "name": "Captain America (Ultimate)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010917",
+              "name": "Colossus (Ultimate)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011131",
+              "name": "Hawkeye (Ultimate)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011005",
+              "name": "Hulk (Ultimate)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010933",
+              "name": "Iceman (Ultimate)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010946",
+              "name": "Jean Grey (Ultimate)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010943",
+              "name": "Magneto (Ultimate)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011007",
+              "name": "Nick Fury (Ultimate)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010963",
+              "name": "Quicksilver (Ultimate)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010966",
+              "name": "Rogue (Ultimate)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010971",
+              "name": "Scarlet Witch (Ultimate)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010978",
+              "name": "Storm (Ultimate)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011025",
+              "name": "Thor (Ultimate)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009689",
+              "name": "Vanisher (Ultimate)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010992",
+              "name": "Wasp (Ultimate)"
+            }
+          ],
+          "returned": 17
+        },
+        "stories": {
+          "available": 13,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/1158/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/270",
+              "name": "The Ultimates vs. the Ultimate X-Men: the battle begins. When the X-Men do the worst thing they could to humanity, the governmen",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/39347",
+              "name": "The Ultimates vs. Ultimate X-Men",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/39348",
+              "name": "Interior #39348",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/39349",
+              "name": "Free Preview of Hulk #50",
+              "type": "promo"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/39350",
+              "name": "The Ultimates vs. Ultimate X-Men",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/39351",
+              "name": "Interior #39351",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/39352",
+              "name": "Free Preview of Hulk #50",
+              "type": "promo"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/39353",
+              "name": "The Ultimates vs. Ultimate X-Men",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/39354",
+              "name": "Interior #39354",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/39355",
+              "name": "Free Preview of Avengers 65",
+              "type": "promo"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/39356",
+              "name": "The Ultimates vs. Ultimate X-Men",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/39357",
+              "name": "Interior #39357",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/65260",
+              "name": "ULTIMATE X-MEN VOL. 5: ULTIMATE WAR 0 cover",
+              "type": "cover"
+            }
+          ],
+          "returned": 13
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/1158/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 59527,
+        "digitalId": 0,
+        "title": "Black Panther (2016) #4 (Anacleto Mighty Men Variant)",
+        "issueNumber": 4,
+        "variantDescription": "Anacleto Mighty Men Variant",
+        "description": null,
+        "modified": "2016-07-12T16:51:12-0400",
+        "isbn": "",
+        "upc": "759606084211000431",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/59527",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/59527/black_panther_2016_4_anacleto_mighty_men_variant/anacleto_mighty_men_variant?utm_campaign=apiRef&utm_source=0a7c05bb263718db049062aa23c81ffc"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/20912",
+          "name": "Black Panther (2016 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/57385",
+            "name": "Black Panther (2016) #4"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/59096",
+            "name": "Black Panther (2016) #4 (Greene Connecting Variant D)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/60056",
+            "name": "Black Panther (2016) #4 (Yardin Death of X Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2029-12-31T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2016-07-06T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/56f06f175c860",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/59527/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1040",
+              "name": "Jay Anacleto",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12376",
+              "name": "Wilson Moss",
+              "role": "editor"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/59527/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/59527/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/129560",
+              "name": "cover from Black Panther (2016) #4 (ANACLETO MOP VARIANT)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/129561",
+              "name": "story from Black Panther (2016) #4 (ANACLETO MOP VARIANT)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/59527/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 15094,
+        "digitalId": 0,
+        "title": "Silver Surfer (1987)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": null,
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 0,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15094",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/15094/silver_surfer_1987?utm_campaign=apiRef&utm_source=0a7c05bb263718db049062aa23c81ffc"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/2288",
+          "name": "Silver Surfer (1987 - 1998)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2029-12-31T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "images": [],
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/15094/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/15094/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/15094/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/30658",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/67348",
+              "name": "silver surfer 0 cover",
+              "type": "cover"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/15094/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 37302,
+        "digitalId": 0,
+        "title": "Marvel Adventures Super Heroes Special (2010) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2014-05-08T12:18:41-0400",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Digital Comic",
+        "pageCount": 0,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37302",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/37302/marvel_adventures_super_heroes_special_2010_1?utm_campaign=apiRef&utm_source=0a7c05bb263718db049062aa23c81ffc"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/13386",
+          "name": "Marvel Adventures Super Heroes Special (2010 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2029-12-31T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "images": [],
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/37302/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/37302/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/37302/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/106320",
+              "name": "cover from Marvel Adventures Super Heroes Special #1",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/37302/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 37504,
+        "digitalId": 0,
+        "title": "Marvels Vol. 1 (1994) #7",
+        "issueNumber": 7,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2014-05-08T12:18:41-0400",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Digital Comic",
+        "pageCount": 0,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37504",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/37504/marvels_vol_1_1994_7?utm_campaign=apiRef&utm_source=0a7c05bb263718db049062aa23c81ffc"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/13495",
+          "name": "Marvels Vol. 1 (1994)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2029-12-31T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "images": [],
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/37504/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/37504/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/37504/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/106389",
+              "name": "cover from Marvels Vol. 1 #7",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/37504/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 59555,
+        "digitalId": 0,
+        "title": "Squadron Supreme (2015) #9 (Frison Mighty Men Variant)",
+        "issueNumber": 9,
+        "variantDescription": "Frison Mighty Men Variant",
+        "description": null,
+        "modified": "2016-07-15T16:47:08-0400",
+        "isbn": "",
+        "upc": "75960608316900921",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 40,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/59555",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/59555/squadron_supreme_2015_9_frison_mighty_men_variant/frison_mighty_men_variant?utm_campaign=apiRef&utm_source=0a7c05bb263718db049062aa23c81ffc"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/20517",
+          "name": "Squadron Supreme (2015 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/55747",
+            "name": "Squadron Supreme (2015) #9"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/60115",
+            "name": "Squadron Supreme (2015) #9 (Christopher Action Figure Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/60139",
+            "name": "Squadron Supreme (2015) #9 (Young Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2029-12-31T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2016-07-05T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 4.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "images": [],
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/59555/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11092",
+              "name": "Jenny Frison",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12456",
+              "name": "Katie Kubert",
+              "role": "editor"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/59555/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/59555/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/129616",
+              "name": "cover from Squadron Supreme (2015) #9 (TBD ARTIST MOP VARIANT)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/129617",
+              "name": "story from Squadron Supreme (2015) #9 (TBD ARTIST MOP VARIANT)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/59555/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 16236,
+        "digitalId": 0,
+        "title": "Cap Transport (2005) #16",
+        "issueNumber": 16,
+        "variantDescription": "",
+        "description": null,
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 0,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16236",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/16236/cap_transport_2005_16?utm_campaign=apiRef&utm_source=0a7c05bb263718db049062aa23c81ffc"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/2722",
+          "name": "Cap Transport (2005 - 2006)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2029-12-31T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "images": [],
+        "creators": {
+          "available": 9,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/16236/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3635",
+              "name": "Joe Quesada",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4371",
+              "name": "Andy Schmidt",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5255",
+              "name": "Lazer Sitterson",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/367",
+              "name": "Ed Brubaker",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+              "name": "Frank D'Armata",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/374",
+              "name": "Steve Epting",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/708",
+              "name": "Mike Perkins",
+              "role": "penciler"
+            }
+          ],
+          "returned": 9
+        },
+        "characters": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/16236/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009252",
+              "name": "Crossbones"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009228",
+              "name": "Sharon Carter"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010898",
+              "name": "Sin"
+            }
+          ],
+          "returned": 4
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/16236/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/33998",
+              "name": "Captain America",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/33999",
+              "name": "Collision Courses Part 1 of 2",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/16236/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 21480,
+        "digitalId": 0,
+        "title": "Ultimate X-Men (Spanish Language Edition) (2000) #3",
+        "issueNumber": 3,
+        "variantDescription": "",
+        "description": null,
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 36,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21480",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/21480/ultimate_x-men_spanish_language_edition_2000_3?utm_campaign=apiRef&utm_source=0a7c05bb263718db049062aa23c81ffc"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/5106",
+          "name": "Ultimate X-Men (Spanish Language Edition) (2000 - 2009)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2029-12-31T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "images": [],
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21480/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21480/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011109",
+              "name": "X-Men (Ultimate)"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21480/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/48988",
+              "name": "Cover #48988",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/48989",
+              "name": "Interior #48989",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21480/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 21468,
+        "digitalId": 0,
+        "title": "Ultimate Spider-Man (Spanish Language Edition) (2000) #4",
+        "issueNumber": 4,
+        "variantDescription": "",
+        "description": null,
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 36,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21468",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/21468/ultimate_spider-man_spanish_language_edition_2000_4?utm_campaign=apiRef&utm_source=0a7c05bb263718db049062aa23c81ffc"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/5105",
+          "name": "Ultimate Spider-Man (Spanish Language Edition) (2000 - 2001)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2029-12-31T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.5
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "images": [],
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21468/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21468/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011010",
+              "name": "Spider-Man (Ultimate)"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21468/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/48964",
+              "name": "Cover #48964",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/48965",
+              "name": "Interior #48965",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21468/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 61137,
+        "digitalId": 0,
+        "title": "The Punisher (2016) #5 (Cosplay Variant)",
+        "issueNumber": 5,
+        "variantDescription": "Cosplay Variant",
+        "description": null,
+        "modified": "2016-09-01T12:40:16-0400",
+        "isbn": "",
+        "upc": "75960608413500521",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/61137",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/61137/the_punisher_2016_5_cosplay_variant/cosplay_variant?utm_campaign=apiRef&utm_source=0a7c05bb263718db049062aa23c81ffc"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/20879",
+          "name": "The Punisher (2016 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/57219",
+            "name": "The Punisher (2016) #5"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/61197",
+            "name": "The Punisher (2016) #5 (Aja Defenders Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2029-12-31T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2016-08-23T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "images": [],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/61137/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11921",
+              "name": "Jacob Thomas",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/61137/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/61137/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/132727",
+              "name": "cover from The Punisher (2016) #5 (COSPLAY VARIANT)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/132728",
+              "name": "story from The Punisher (2016) #5 (COSPLAY VARIANT)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/61137/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 59525,
+        "digitalId": 0,
+        "title": "Amazing Spider-Man (2015) #15 (Panosian Mighty Men Variant)",
+        "issueNumber": 15,
+        "variantDescription": "Panosian Mighty Men Variant",
+        "description": null,
+        "modified": "2016-06-29T13:58:20-0400",
+        "isbn": "",
+        "upc": "75960608297101531",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/59525",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/59525/amazing_spider-man_2015_15_panosian_mighty_men_variant/panosian_mighty_men_variant?utm_campaign=apiRef&utm_source=0a7c05bb263718db049062aa23c81ffc"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/20432",
+          "name": "Amazing Spider-Man (2015 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/62026",
+            "name": "Amazing Spider-Man (2015) #15 (Alex Ross 2nd Printing Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/55313",
+            "name": "Amazing Spider-Man (2015) #15"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/61155",
+            "name": "Amazing Spider-Man (2015) #15 (Js Campbell Exclusive Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/61156",
+            "name": "Amazing Spider-Man (2015) #15 (Js Campbell Exclusive Black and White Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2029-12-31T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2016-06-22T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "images": [],
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/59525/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+              "name": "Nick Lowe",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1914",
+              "name": "Dan Panosian",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/59525/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/59525/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/129556",
+              "name": "cover from Amazing Spider-Man (2015) #15 (PANOSIAN MOP VARIANT)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/129557",
+              "name": "story from Amazing Spider-Man (2015) #15 (PANOSIAN MOP VARIANT)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/59525/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 10511,
+        "digitalId": 0,
+        "title": "Peter Parker: Spider-Man (1999) #79",
+        "issueNumber": 79,
+        "variantDescription": "",
+        "description": null,
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 36,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10511",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/10511/peter_parker_spider-man_1999_79?utm_campaign=apiRef&utm_source=0a7c05bb263718db049062aa23c81ffc"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/2060",
+          "name": "Peter Parker: Spider-Man (1999 - 2003)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2029-12-31T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 1.95
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "images": [],
+        "creators": {
+          "available": 10,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/10511/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+              "name": "Comicraft",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/3600",
+              "name": "Kiff Scholl",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+              "name": "Richard Starkings",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1950",
+              "name": "Joe Andreani",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+              "name": "Bob Harras",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1282",
+              "name": "Ralph Macchio",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/362",
+              "name": "Scott Hanna",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1286",
+              "name": "Howard Mackie",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+              "name": "John Romita JR.",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2364",
+              "name": "Greg Wright",
+              "role": "colorist"
+            }
+          ],
+          "returned": 10
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/10511/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009359",
+              "name": "Hydra"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009454",
+              "name": "Morbius"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 3
+        },
+        "stories": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/10511/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/23723",
+              "name": "Cover #23723",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/23724",
+              "name": "After the Fall",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/23725",
+              "name": "Crawl Space",
+              "type": "letters"
+            }
+          ],
+          "returned": 3
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/10511/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 16229,
+        "digitalId": 0,
+        "title": "Cap Transport (2005) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": null,
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 0,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16229",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/16229/cap_transport_2005_1?utm_campaign=apiRef&utm_source=0a7c05bb263718db049062aa23c81ffc"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/2722",
+          "name": "Cap Transport (2005 - 2006)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2029-12-31T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "images": [],
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/16229/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/16229/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/16229/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/33978",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/67542",
+              "name": "cap transport 1 cover",
+              "type": "cover"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/16229/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 16245,
+        "digitalId": 0,
+        "title": "Cap Transport (2005) #6",
+        "issueNumber": 6,
+        "variantDescription": "",
+        "description": null,
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 0,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16245",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/16245/cap_transport_2005_6?utm_campaign=apiRef&utm_source=0a7c05bb263718db049062aa23c81ffc"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/2722",
+          "name": "Cap Transport (2005 - 2006)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2029-12-31T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "images": [],
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/16245/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/16245/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/16245/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/34017",
+              "name": "",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/67544",
+              "name": "cap transport 6 cover",
+              "type": "cover"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/16245/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 21461,
+        "digitalId": 9963,
+        "title": "Ultimate Spider-Man (Spanish Language Edition) (2000) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": null,
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 0,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21461",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/21461/ultimate_spider-man_spanish_language_edition_2000_1?utm_campaign=apiRef&utm_source=0a7c05bb263718db049062aa23c81ffc"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=9963&utm_campaign=apiRef&utm_source=0a7c05bb263718db049062aa23c81ffc"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/5105",
+          "name": "Ultimate Spider-Man (Spanish Language Edition) (2000 - 2001)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2029-12-31T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2008-03-25T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/60/4bb7bc4c4b2b0",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/60/4bb7bc4c4b2b0",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21461/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21461/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011010",
+              "name": "Spider-Man (Ultimate)"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21461/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/48958",
+              "name": "Cover #48958",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/48959",
+              "name": "Interior #48959",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21461/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 1308,
+        "digitalId": 0,
+        "title": "Marvel Age Spider-Man Vol. 2: Everyday Hero (Digest)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "\"The Marvel Age of Comics continues! This time around, Spidey meets his match against such classic villains as Electro and the Lizard, and faces the return of one of his first foes: the Vulture! Plus: Spider-Man vs. the Living Brain, Peter Parker's fight with Flash Thompson, and the wall-crawler tackles the high-flying Human Torch!\"",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "0-7851-1451-3",
+        "upc": "5960611451-00111",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Digest",
+        "pageCount": 96,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\"The Marvel Age of Comics continues! This time around, Spidey meets his match against such classic villains as Electro and the Lizard, and faces the return of one of his first foes: the Vulture! Plus: Spider-Man vs. the Living Brain, Peter Parker's fight with Flash Thompson, and the wall-crawler tackles the high-flying Human Torch!\""
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1308",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/1308/marvel_age_spider-man_vol_2_everyday_hero_digest?utm_campaign=apiRef&utm_source=0a7c05bb263718db049062aa23c81ffc"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/1242",
+          "name": "Marvel Age Spider-Man Vol. 2: Everyday Hero (2004)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/546",
+            "name": "Marvel Age Spider-Man (2004) #8"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/610",
+            "name": "Marvel Age Spider-Man (2004) #7"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/728",
+            "name": "Marvel Age Spider-Man (2004) #6"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/681",
+            "name": "Marvel Age Spider-Man (2004) #5"
+          }
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2029-12-31T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 5.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4bc68ea3d3e7b",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/40/4bc689a4ce796",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/c0/4bc684889f8ed",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4bc6809bdc81b",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4bc665483c3aa",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 10,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/1308/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/694",
+              "name": "Mark Brooks",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/434",
+              "name": "Michael Ryan",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/424",
+              "name": "Udon Comics",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/692",
+              "name": "Pat Davidson",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/689",
+              "name": "Derek Fridolfs",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6743",
+              "name": "Rich Perrotta",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/682",
+              "name": "Todd Dezago",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/326",
+              "name": "Daniel Quantz",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/691",
+              "name": "Jonboy Meyers",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/688",
+              "name": "Michael OHare",
+              "role": "penciller"
+            }
+          ],
+          "returned": 10
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/1308/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 9,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/1308/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2759",
+              "name": "Cover #2759",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2760",
+              "name": "Interior #2760",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2763",
+              "name": "Cover #2763",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2764",
+              "name": "Interior #2764",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2769",
+              "name": "Cover #2769",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2770",
+              "name": "Interior #2770",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2771",
+              "name": "Cover #2771",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/2772",
+              "name": "Interior #2772",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/65682",
+              "name": "MARVEL AGE SPIDER-MAN VOL. 2: EVERYDAY HERO 0 cover",
+              "type": "cover"
+            }
+          ],
+          "returned": 9
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/1308/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 21470,
+        "digitalId": 0,
+        "title": "Ultimate Spider-Man (Spanish Language Edition) (2000) #6",
+        "issueNumber": 6,
+        "variantDescription": "",
+        "description": null,
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 36,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21470",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/21470/ultimate_spider-man_spanish_language_edition_2000_6?utm_campaign=apiRef&utm_source=0a7c05bb263718db049062aa23c81ffc"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/5105",
+          "name": "Ultimate Spider-Man (Spanish Language Edition) (2000 - 2001)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2029-12-31T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.25
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "images": [],
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21470/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21470/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011010",
+              "name": "Spider-Man (Ultimate)"
+            }
+          ],
+          "returned": 1
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21470/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/48968",
+              "name": "Cover #48968",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/48969",
+              "name": "Interior #48969",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/21470/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 59927,
+        "digitalId": 0,
+        "title": "Darth Vader (2015) #25 (Christopher Action Figure Black and White Variant)",
+        "issueNumber": 25,
+        "variantDescription": "Christopher Action Figure Black and White Variant",
+        "description": null,
+        "modified": "2016-08-25T12:39:05-0400",
+        "isbn": "",
+        "upc": "759606081241002531",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 48,
+        "textObjects": [],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/59927",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/59927/darth_vader_2015_25_christopher_action_figure_black_and_white_variant/christopher_action_figure_black_and_white_variant?utm_campaign=apiRef&utm_source=0a7c05bb263718db049062aa23c81ffc"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/19379",
+          "name": "Darth Vader (2015 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/55405",
+            "name": "Darth Vader (2015) #25"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/60350",
+            "name": "Darth Vader (2015) #25 (Quesada Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/59574",
+            "name": "Darth Vader (2015) #25 (Christopher Action Figure Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/59928",
+            "name": "Darth Vader (2015) #25 (Granov Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/59929",
+            "name": "Darth Vader (2015) #25 (Larroca Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/59930",
+            "name": "Darth Vader (2015) #25 (Michael Cho Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/59931",
+            "name": "Darth Vader (2015) #25 (Mckelvie Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/59932",
+            "name": "Darth Vader (2015) #25 (Shirahama Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/59933",
+            "name": "Darth Vader (2015) #25 (Samnee Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/59934",
+            "name": "Darth Vader (2015) #25 (Pichelli Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/59935",
+            "name": "Darth Vader (2015) #25 (Chiang Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/60282",
+            "name": "Darth Vader (2015) #25 (Quesada Sketch Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2029-12-31T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2016-08-17T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 4.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "images": [],
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/59927/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10405",
+              "name": "John Tyler Christopher",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+              "name": "Jordan White",
+              "role": "editor"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/59927/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/59927/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/130360",
+              "name": "cover from Darth Vader (2015) #25 (CHRISTOPHER ACTION FIGURE BLACK AND WHITE VARIANT)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/130361",
+              "name": "story from Darth Vader (2015) #25 (CHRISTOPHER ACTION FIGURE BLACK AND WHITE VARIANT)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/59927/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 15878,
+        "digitalId": 0,
+        "title": "Hedge Knight II: Sworn Sword (2007) #1 (Yu Variant)",
+        "issueNumber": 1,
+        "variantDescription": "Yu Variant",
+        "description": "In 2003, Dabel Brothers Productions released THE HEDGE KNIGHT and stunned the comic book world with their high quality adaptation of New York Times Best-Selling author George R. R. Martin's novella which serves as a prequel to his epic novel series, A SONG OF ICE AND FIRE. In 2004, the collected graphic novel edition of THE HEDGE KNIGHT went on to become one of the best-selling graphic novels of the year. In 2006, Marvel Comics and Dabel Brothers Production republished the book in a prestige hardcover format, much to the delight of collectors and critics alike. And in Spring 2007, the Dabel Brothers will continue the story of THE HEDGE KNIGHT by adapting the next chapter in the series: George R. R. Martin's THE SWORN SWORD.\r<br>Featuring the return of the creative duo of Mike S. Miller and Ben Avery, THE SWORN SWORD tells the story of the adventures of Ser Duncan and his squire one year after their initial meeting at the tournament in Ashford. After traveling the land in search of the puppeteer girl Tanselle, Dunk and Egg find themselves in the charge of Ser Eustace, an aged knight who has accepted Dunk as his sworn sword. But Ser Eustace has another knight in his service who is nothing but trouble, and he will make Dunk's life far more difficult when he rashly attacks a peasant and causes grief to a local noble, the Lady Rohanne Webber. But the Lady Rohanne has problems of her own...and she knows the truth about Ser Eustace and the side he took in the battle of Redgrass Field. The long-awaited sequel to THE HEDGE KNIGHT has finally arrived!\r<br>32 PGS./ Rated T+...$2.99 \r<br>",
+        "modified": "-0001-11-30T00:00:00-0500",
+        "isbn": "",
+        "upc": "5960606129-00141",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "In 2003, Dabel Brothers Productions released THE HEDGE KNIGHT and stunned the comic book world with their high quality adaptation of New York Times Best-Selling author George R. R. Martin's novella which serves as a prequel to his epic novel series, A SONG OF ICE AND FIRE. In 2004, the collected graphic novel edition of THE HEDGE KNIGHT went on to become one of the best-selling graphic novels of the year. In 2006, Marvel Comics and Dabel Brothers Production republished the book in a prestige hardcover format, much to the delight of collectors and critics alike. And in Spring 2007, the Dabel Brothers will continue the story of THE HEDGE KNIGHT by adapting the next chapter in the series: George R. R. Martin's THE SWORN SWORD.\r<br>Featuring the return of the creative duo of Mike S. Miller and Ben Avery, THE SWORN SWORD tells the story of the adventures of Ser Duncan and his squire one year after their initial meeting at the tournament in Ashford. After traveling the land in search of the puppeteer girl Tanselle, Dunk and Egg find themselves in the charge of Ser Eustace, an aged knight who has accepted Dunk as his sworn sword. But Ser Eustace has another knight in his service who is nothing but trouble, and he will make Dunk's life far more difficult when he rashly attacks a peasant and causes grief to a local noble, the Lady Rohanne Webber. But the Lady Rohanne has problems of her own...and she knows the truth about Ser Eustace and the side he took in the battle of Redgrass Field. The long-awaited sequel to THE HEDGE KNIGHT has finally arrived!\r<br>32 PGS./ Rated T+...$2.99 \r<br>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15878",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/15878/hedge_knight_ii_sworn_sword_2007_1_yu_variant/yu_variant?utm_campaign=apiRef&utm_source=0a7c05bb263718db049062aa23c81ffc"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/1946",
+          "name": "Hedge Knight II: Sworn Sword (2007 - 2008)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/15876",
+            "name": "Hedge Knight II: Sworn Sword (2007) #1"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/15877",
+            "name": "Hedge Knight II: Sworn Sword (2007) #1 (Sketch Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/6257",
+            "name": "Hedge Knight II: Sworn Sword (2007) #1"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2029-12-31T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bc49463dad62",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bc49463dad62",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/15878/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1364",
+              "name": "Ben Avery",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1363",
+              "name": "George R. r. Martin",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1411",
+              "name": "Mike S. Miller",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/15878/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/15878/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/32426",
+              "name": "Cover #32426",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/32427",
+              "name": "Interior #32427",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/15878/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 37530,
+        "digitalId": 0,
+        "title": "Magician: Apprentice Riftwar Saga (2010) #14",
+        "issueNumber": 14,
+        "variantDescription": "",
+        "description": "The War between the Tsurani and the people of Midkemia rages on. Tomas has fled to the mountains to assist the dwarves but his enchanted armor seems to be exercising increasing control over him. Will the armor fully consume him?",
+        "modified": "2014-05-08T12:18:41-0400",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Digital Comic",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "The War between the Tsurani and the people of Midkemia rages on. Tomas has fled to the mountains to assist the dwarves but his enchanted armor seems to be exercising increasing control over him. Will the armor fully consume him?"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37530",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/37530/magician_apprentice_riftwar_saga_2010_14?utm_campaign=apiRef&utm_source=0a7c05bb263718db049062aa23c81ffc"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/13431",
+          "name": "Magician: Apprentice Riftwar Saga (2010 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2029-12-31T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "images": [],
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/37530/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/37530/characters",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/37530/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/106311",
+              "name": "cover from Magician: Apprentice Riftwar Saga #14",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/37530/events",
+          "items": [],
+          "returned": 0
+        }
+      }
+    ]
+  }
